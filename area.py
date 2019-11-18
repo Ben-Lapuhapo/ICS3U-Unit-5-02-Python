@@ -16,7 +16,7 @@ def calculate_area(base, height):
 
 
 def main():
-    # this function gets length and width
+    # this function gets base and height
 
     # input
     base_from_user_input = input("Enter the Base of a Triangle (cm): ")
